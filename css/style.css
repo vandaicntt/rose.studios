@@ -97,17 +97,22 @@ p{
 	max-height: 420px;
 }
 
+.rose-services-right-cols {
+	height: auto;
+	max-height: 400px;
+}
+
 /* Header Styles
 ---------------------------------*/
 
 .header{
 	text-align:center;
-	background:url(../img/pw_maze_black_2X.png) left top repeat;
+	background:url(../img/background.webp) left top / cover no-repeat;
 	padding:280px 0;
 }
 .logo{
 	width:130px;
-	margin:0 auto 35px;
+	margin:0 auto 20px;
 }
 .header h1{
 	font-family: 'Montserrat',sans-serif;
