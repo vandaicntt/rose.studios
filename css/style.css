@@ -92,6 +92,11 @@ p{
 	margin:0;
 }
 
+.rose-work-left-cols {
+	height: auto;
+	max-height: 420px;
+}
+
 /* Header Styles
 ---------------------------------*/
 
